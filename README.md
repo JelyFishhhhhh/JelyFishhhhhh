@@ -5,7 +5,11 @@ Hello ! I'm JelyFishhhhhh.
 
 ***"The only thing I know is that I'm weak 🤕"***
 
-☎️ Contact me ->
+---
+
+### ☎️ Contact me
+
+<br>
 
 <div id="Contact" style="width:125px;">
     <a href="https://www.instagram.com/70ny._.w419.h/">
@@ -33,6 +37,8 @@ Hello ! I'm JelyFishhhhhh.
     }
 </style> -->
 
+---
+### GiHub Stats
 <br>
 
 ![JelyFishhhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&show_icons=true&theme=ocean_dark&hide_border=true)
