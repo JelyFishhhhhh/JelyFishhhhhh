@@ -9,8 +9,6 @@ Hello ! I'm JelyFishhhhhh.
 
 ### ☎️ Contact me
 
-<br>
-
 <div id="Contact" style="width:125px;">
     <a href="https://www.instagram.com/70ny._.w419.h/">
         <p >
@@ -38,11 +36,14 @@ Hello ! I'm JelyFishhhhhh.
 </style> -->
 
 ---
-### GiHub Stats
-<br>
+### 🗽 GitHub Stats
 
 ![JelyFishhhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&show_icons=true&theme=ocean_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
-
+---
+### 💻 My Top Lang
 ![JelyFishhhhhh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JelyFishhhhhh&theme=ocean_dark&hide_border=true&show_icon=true&hide=html)
+
+---
+### 📓 My Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
