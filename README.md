@@ -38,7 +38,7 @@ Hello ! I'm JelyFishhhhhh.
 ---
 ### 🗽 GitHub Stats
 
-![JelyFishhhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&show_icons=true&theme=ocean_dark&hide_border=true/)
+![JelyFishhhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&show_icons=true&theme=ocean_dark&hide_border=true)
 
 ---
 ### 💻 My Top Lang
