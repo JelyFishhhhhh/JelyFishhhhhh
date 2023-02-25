@@ -7,22 +7,22 @@ Hello ! I'm JelyFishhhhhh.
 
 ☎️ Contact me ->
 
-<div id="Contact">
+<div id="Contact" style="width:125px;">
     <a href="https://www.instagram.com/70ny._.w419.h/">
         <p >
             Instagram
-            <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram">
+            <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;float:right;">
         </p>
     </a>
     <a href="https://discordapp.com/users/455256442761379850">
         <p>
             Discord
-            <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png">
+            <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;float:right;">
         </p>
     </a>
 </div>
 
-<style>
+<!-- <style>
     #Contact{
         width: 125px;
     } 
@@ -31,7 +31,8 @@ Hello ! I'm JelyFishhhhhh.
         height: auto;
         float: right;
     }
-</style>
+</style> -->
+
 <br>
 
 [![JelyFishhhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&show_icons=true&theme=ocean_dark&hide_border=true)](https://github.com/JelyFishhhhhh)
