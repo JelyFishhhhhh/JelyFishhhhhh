@@ -27,7 +27,7 @@ Hello ! I'm JelyFishhhhhh.
         width: 125px;
     } 
     #Contact img{
-        width: 20%;
+        width: 20px;
         height: auto;
         float: right;
     }
