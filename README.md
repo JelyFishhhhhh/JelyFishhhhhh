@@ -5,6 +5,8 @@
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
+### \* Use a piece of ~~🍰~~ code to introducing me \*
+
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
 
 ```python
@@ -26,7 +28,7 @@ class JelyFishhhhhh:
         crawler = ["CWB-crawler", "Instagram-crawler"]
         outlooking = ["CyberSecurity", "Devp"]
 
-    async def interesting(self):
+    async def interest(self):
 
         photography = ["NIKON D7100", "iPhone 14 Plus"]
         film_camera = ["NIKON FE2", "OLYMPUS μ II"]
@@ -35,6 +37,8 @@ class JelyFishhhhhh:
 ---
 
 ### ☎️ Contact me
+
+<br>
 
 <div id="Contact">
     <a href="https://www.instagram.com/70ny._.w419.h/">
@@ -46,7 +50,7 @@ class JelyFishhhhhh:
     <br>
     <a href="https://discordapp.com/users/455256442761379850">
         <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;" align = "left" />
-        <p?>
+        <p>
             Discord : J3lyF15hhhhhh#4564
         </p>
     </a>
