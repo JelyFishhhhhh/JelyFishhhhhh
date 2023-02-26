@@ -1,6 +1,6 @@
 ## Hi there ! Welcome to my GitHub page :) 👋
 
-<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_color=#54208c&right_color=#34e053" />
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
 ### Hello ! I'm JelyFishhhhhh.
 
