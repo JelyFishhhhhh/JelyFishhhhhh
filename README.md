@@ -1,9 +1,9 @@
-### Hi there ! Welcome to my GitHub page :) 👋
+## Hi there ! Welcome to my GitHub page :) 👋
 
-Hello ! I'm JelyFishhhhhh.
+### Hello ! I'm JelyFishhhhhh.
 
 
-***"The only thing I know is that I'm weak 🤕"***
+: ***"The only thing I know is that I'm weak 🤕"***
 
 ---
 
