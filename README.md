@@ -39,28 +39,13 @@ class JelyFishhhhhh:
 <div id="Contact">
     <a href="https://www.instagram.com/70ny._.w419.h/">
         <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;float:left;">
-        <p style="float:right">
-            Instagram : 70ny._.w419.h
-        </p>
+        Instagram : 70ny._.w419.h
     </a>
     <a href="https://discordapp.com/users/455256442761379850">
         <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;float:left;">
-        <p style="float:right">
-            Discord : J3lyF15hhhhhh#4564
-        </p>
+        Discord : J3lyF15hhhhhh#4564
     </a>
 </div>
-
-<!-- <style>
-    #Contact{
-        width: 125px;
-    } 
-    #Contact img{
-        width: 20px;
-        height: auto;
-        float: right;
-    }
-</style> -->
 
 ---
 ### 🗽 GitHub Stats
