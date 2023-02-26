@@ -5,7 +5,7 @@
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
-<img src = "https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif" style = "width:510px;align:left">
+<img src = "https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif" style = "width:510px;float:right">
 
 ```python
 class JelyFishhhhhh:
