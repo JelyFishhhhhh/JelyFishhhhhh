@@ -5,7 +5,7 @@
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:350px;height:350px;" align = "left">
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
 
 ```python
 class JelyFishhhhhh:
