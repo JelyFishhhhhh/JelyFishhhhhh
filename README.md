@@ -72,11 +72,11 @@ class JelyFishhhhhh:
 ---
 ### 🧠 My Resp
 <a href="https://github.com/spy-Ders/Weather-Crawler" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" style = "height:150px;"/>
 </a>
 
 <br>
 
 <a href="https://github.com/spy-Ders/Instagram-Crawler" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" style = "height:150px;"/>
 </a>
