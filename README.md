@@ -5,7 +5,7 @@
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
-***\* Use a piece of ~~🍰~~ code to introducing me \****
+*\* Use a piece of ~~🍰~~ code to introducing me \**
 
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
 
@@ -57,6 +57,10 @@ class JelyFishhhhhh:
 </div>
 
 ---
+### 📓 My Streak
+<img src="https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=github-green-purple&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" />
+
+---
 ### 🗽 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&theme=ocean_dark&hide_border=true&show_icons=true" />
@@ -66,5 +70,13 @@ class JelyFishhhhhh:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true" />
 
 ---
-### 📓 My Streak
-<img src="https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=github-green-purple&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" />
+### 🧠 My Resp
+<a href="https://github.com/spy-Ders/Weather-Crawler" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
+</a>
+
+<br>
+
+<a href="https://github.com/spy-Ders/Instagram-Crawler" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" />
+</a>
