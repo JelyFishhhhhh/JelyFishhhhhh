@@ -1,10 +1,37 @@
 ## Hi there ! Welcome to my GitHub page :) 👋
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh)
 
 ### Hello ! I'm JelyFishhhhhh.
 
-
 : ***"The only thing I know is that I'm weak 🤕"***
 
+<img src = "https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif" style = "width:500px;">
+
+```python
+class JelyFishhhhhh:
+    
+    def __init__(self):
+        
+        birth = "19 Apr 2005"
+        zodiac = "Aries ♈"
+        blood_type = "A"
+        birthplace = "Chiayi, Taiwan 🇹🇼"
+
+    def programming_life(self):
+
+        programming_lang = ["Python", "C++"]
+        exp = ["Competitive-Programming", "Devp"]
+        online_judge = ["ZeroJudge", "CodeForces"]
+        bot = ["Line", "Discord"]
+        crawler = ["CWB-crawler", "Instagram-crawler"]
+        outlooking = ["CyberSecurity", "Devp"]
+
+    async def interesting(self):
+
+        photography = ["NIKON D7100", "iPhone 14 Plus"]
+        film_camera = ["NIKON FE2", "OLYMPUS μ II"]
+
+```
 ---
 
 ### ☎️ Contact me
