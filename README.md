@@ -38,14 +38,14 @@ class JelyFishhhhhh:
 
 <div id="Contact">
     <a href="https://www.instagram.com/70ny._.w419.h/">
-        <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;float:left;" />
+        <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;"  align="left"/>
         <p>
             Instagram : 70ny._.w419.h
         </p>
     </a>
     <br>
     <a href="https://discordapp.com/users/455256442761379850">
-        <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;float:left;" />
+        <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;" align = "left" />
         <p?>
             Discord : J3lyF15hhhhhh#4564
         </p>
