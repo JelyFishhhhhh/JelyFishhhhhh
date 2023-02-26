@@ -36,7 +36,7 @@ class JelyFishhhhhh:
 
 ### ☎️ Contact me
 
-<div id="Contact" style="width:125px;">
+<div id="Contact">
     <a href="https://www.instagram.com/70ny._.w419.h/">
         <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;float:left;">
         <p style="float:right">
