@@ -64,14 +64,14 @@ class JelyFishhhhhh:
 ---
 ### 🗽 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&theme=ocean_dark&hide_border=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&theme=ocean_dark&hide_border=true&count_private=true&show_icons=true" />
 
 ---
 ### 💻 My Top Lang
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true" />
 
 ---
-### 🧠 My Resp
+### 🧠 My Repo
 <a href="https://github.com/spy-Ders/Weather-Crawler">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
 </a>
