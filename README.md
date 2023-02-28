@@ -77,5 +77,5 @@ class JelyFishhhhhh:
 </a>
 
 <a href="https://github.com/spy-Ders/Instagram-Crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" />
 </a>
