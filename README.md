@@ -15,7 +15,7 @@ class JelyFishhhhhh:
     
     def __init__(self):
         
-        birth = "19 Apr 2005"
+        birth = "19th Apr 2005"
         zodiac = "Aries ♈"
         blood_type = "A"
         birthplace = "Chiayi, Taiwan 🇹🇼"
@@ -23,11 +23,11 @@ class JelyFishhhhhh:
     def programming_life(self):
 
         programming_lang = ["Python", "C++"]
-        exp = ["Competitive-Programming", "Devp"]
+        exp = ["Competitive-Programming", "Dev"]
         online_judge = ["ZeroJudge", "CodeForces"]
         bot = ["Line", "Discord"]
         crawler = ["CWB-crawler", "Instagram-crawler"]
-        outlooking = ["CyberSecurity", "Devp"]
+        outlooking = ["CyberSecurity", "Dev"]
 
     async def interest(self):
 
