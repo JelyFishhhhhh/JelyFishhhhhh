@@ -1,4 +1,4 @@
-## Hi there ! Welcome to my GitHub page :) 👋
+## Hi there ! Welcome to my GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :)
 
 <img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
