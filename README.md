@@ -27,7 +27,7 @@ class JelyFishhhhhh:
         online_judge = ["ZeroJudge", "CodeForces"]
         bot = ["Line", "Discord"]
         crawler = ["CWB-crawler", "Instagram-crawler"]
-        outlooking = ["CyberSecurity", "Dev"]
+        outlooking = ["Information security", "Dev"]
 
     async def interest(self):
 
