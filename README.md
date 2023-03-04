@@ -1,4 +1,4 @@
-## Hi there ! Welcome to my GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :)
+## Hi there ! Welcome to my GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :smile:
 
 <img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
@@ -6,7 +6,7 @@
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
-*\* Use a piece of ~~🍰~~ code to introducing me \**
+*\* Introduce myself with a piece of code \**
 
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
 
