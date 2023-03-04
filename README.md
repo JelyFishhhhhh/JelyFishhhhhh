@@ -70,7 +70,7 @@ class JelyFishhhhhh:
 
 ---
 ### 💻 My Top Lang
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true&hide=html" />
 
 ---
 ### 🧠 My Repo
