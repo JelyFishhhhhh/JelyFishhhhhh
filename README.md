@@ -2,7 +2,8 @@
 
 <img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
-### Hello ! I'm JelyFishhhhhh.
+### Hello ! I'm JelyFishhhhhh :jellyfish:
+
 
 : ***"The only thing I know is that I'm weak 🤕"***
 
@@ -37,7 +38,7 @@ class JelyFishhhhhh:
         film_camera = ["NIKON FE2", "OLYMPUS μ II"]
 
 ```
----
+<lr>
 
 ### ☎️ Contact me
 
@@ -59,25 +60,29 @@ class JelyFishhhhhh:
     </a>
 </div>
 
----
+<lr>
+
 ### 📓 My Streak
 <img src="https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=github-green-purple&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" />
 
----
+<lr>
+
 ### 🗽 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JelyFishhhhhh&theme=ocean_dark&hide_border=true&count_private=true&show_icons=true" />
 
----
+<lr>
+
 ### 💻 My Top Lang
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true&hide=html" />
 
----
-### 🧠 My Repo
-<a href="https://github.com/spy-Ders/Weather-Crawler">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
-</a>
+<lr>
 
-<a href="https://github.com/spy-Ders/Instagram-Crawler">
+<!-- ### 🧠 My Repo -->
+<!-- <a href="https://github.com/spy-Ders/Weather-Crawler">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
+</a> -->
+
+<!-- <a href="https://github.com/spy-Ders/Instagram-Crawler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" />
-</a>
+</a> -->
