@@ -46,10 +46,10 @@ class JelyFishhhhhh:
 <br>
 
 <div id="Contact">
-    <a href="https://www.instagram.com/70ny._.w419.h/">
+    <a href="https://www.instagram.com/70ny._.w4n9.h/">
         <img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo681.png" alt="instagram" style="width:20px;"  align="left"/>
         <p>
-            Instagram : 70ny._.w419.h
+            Instagram : 70ny._.w4n9.h
         </p>
     </a>
     <br>
