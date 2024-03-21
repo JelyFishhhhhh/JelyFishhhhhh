@@ -2,7 +2,7 @@
 
 <img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
-### Hello ! I'm JelyFishhhhhh :jellyfish:
+### Hello ! I'm JelyFishhhhhh 🪼
 
 
 : ***"The only thing I know is that I'm weak 🤕"***
