@@ -8,9 +8,10 @@
 
 ---
 
-\*\* Introduce myself with a piece of code \*\*
+**Introduce myself with a piece of code**
 
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
+<div class="container">
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:300px;height:350px;" align = "left">
 
 ```python
 class JelyF1shhhhhh:
@@ -31,6 +32,7 @@ class JelyF1shhhhhh:
         self.photography = ["Sony ILCE-7C", "NIKON D7100", "iPhone 14 Plus"]
 ```
 
+</div>
 <lr>
 
 ### ☎️ Contact me
