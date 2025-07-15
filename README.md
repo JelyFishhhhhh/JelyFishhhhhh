@@ -1,16 +1,16 @@
-## Hi there ! Welcome to my GitHub page `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">` 😄
+## Hi there ! Welcome to my GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 😄
 
-`<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />`
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
 
 ### Hello ! I'm JelyF1shhhhhh 🪼
 
-: **_"The only thing I know is that I'm weak 🤕"_**
+> **_"The only thing I know is that I'm weak 🤕"_**
 
 ---
 
 \*\* Introduce myself with a piece of code \*\*
 
-`<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">`
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
 
 ```python
 class JelyF1shhhhhh:
@@ -27,6 +27,7 @@ class JelyF1shhhhhh:
         self.outlooking = ["Information Security", "Development"]
 
     async def interests(self):
+
         self.photography = ["Sony ILCE-7C", "NIKON D7100", "iPhone 14 Plus"]
 ```
 
