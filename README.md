@@ -1,42 +1,33 @@
-## Hi there ! Welcome to my GitHub page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :smile:
+## Hi there ! Welcome to my GitHub page `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">` 😄
 
-<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />
+`<img src = "https://visitor-badge.laobi.icu/badge?page_id=JelyFishhhhhh&left_text=Visitors&left_color=5513356&right_color=3465299" />`
 
-### Hello ! I'm JelyFishhhhhh 🪼
+### Hello ! I'm JelyF1shhhhhh 🪼
 
-
-: ***"The only thing I know is that I'm weak 🤕"***
+: **_"The only thing I know is that I'm weak 🤕"_**
 
 ---
 
-*\* Introduce myself with a piece of code \**
+\*\* Introduce myself with a piece of code \*\*
 
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">
+`<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdmZGQwYWM5NjgyMTNjZGZiZTZlYjM1ZDI3MzQ2NThjOTU2OWQyMCZjdD1z/qt0w3WYd3iqcaDP8b4/giphy.gif" style = "width:380px;height:350px;" align = "left">`
 
 ```python
-class JelyFishhhhhh:
-    
+class JelyF1shhhhhh:
+
     def __init__(self):
-        
-        birth = "19th Apr 2005"
-        zodiac = "Aries ♈"
-        blood_type = "A"
-        birthplace = "Chiayi, Taiwan 🇹🇼"
+
+        self.birth = "19th Apr 2005"
+        self.birthplace = "Chiayi, Taiwan 🇹🇼"
 
     def programming_life(self):
 
-        programming_lang = ["Python", "C++"]
-        exp = ["Competitive-Programming", "Dev"]
-        online_judge = ["ZeroJudge", "CodeForces"]
-        bot = ["Line", "Discord"]
-        crawler = ["CWB-crawler", "Instagram-crawler"]
-        outlooking = ["Information security", "Dev"]
+        self.programming_lang = ["Python", "C++"]
+        self.exp = ["Competitive Programming", "Development", "Cybersecurity"]
+        self.outlooking = ["Information Security", "Development"]
 
-    async def interest(self):
-
-        photography = ["NIKON D7100", "iPhone 14 Plus"]
-        film_camera = ["NIKON FE2", "OLYMPUS μ II"]
-
+    async def interests(self):
+        self.photography = ["Sony ILCE-7C", "NIKON D7100", "iPhone 14 Plus"]
 ```
 
 <lr>
@@ -56,7 +47,7 @@ class JelyFishhhhhh:
     <a href="https://discordapp.com/users/455256442761379850">
         <img src="https://www.zicklincenter.org/wp-content/uploads/2022/06/Discord_icon.svg_.png" alt = "Discord" style="width:20px;" align = "left" />
         <p>
-            Discord : J3lyF15hhhhhh#4564
+            Discord : jelyf1shhhhhh___
         </p>
     </a>
 </div>
@@ -64,6 +55,7 @@ class JelyFishhhhhh:
 <lr>
 
 ### 📓 My Streak
+
 <img src="https://streak-stats.demolab.com?user=JelyFishhhhhh&theme=github-green-purple&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" />
 
 <lr>
@@ -75,15 +67,7 @@ class JelyFishhhhhh:
 <lr>
 
 ### 💻 My Top Lang
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelyFishhhhhh&layout=compact&count_private=true&theme=ocean_dark&hide_border=true&hide=html" />
 
 <lr>
-
-<!-- ### 🧠 My Repo -->
-<!-- <a href="https://github.com/spy-Ders/Weather-Crawler">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Weather-Crawler&hide_border=true&theme=ocean_dark" />
-</a> -->
-
-<!-- <a href="https://github.com/spy-Ders/Instagram-Crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spy-Ders&repo=Instagram-Crawler&hide_border=true&theme=ocean_dark" />
-</a> -->
